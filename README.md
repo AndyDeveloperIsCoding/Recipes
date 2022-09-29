@@ -12,8 +12,9 @@ For POST request You can use URL localhost:6065/api/recipe and the request body 
    "directions": "1) Boil water. 2) Pour boiling hot water into a mug. 3) Add fresh mint leaves. 4) Mix and let the mint leaves seep for 3-5 minutes. 5) Add honey and mix again."
 }
 
-For GET request You can use thesame URL: localhost:6065/api/recipe.
+For GET request You can use the same URL: localhost:6065/api/recipe.
 
 The project is currently in progress. As it has just been started, it currently has just a simple functionality- adding recipes to and reading recipes from a HashMap. The project's complexity will grow during the coming week. 
 
 
+Hehe
